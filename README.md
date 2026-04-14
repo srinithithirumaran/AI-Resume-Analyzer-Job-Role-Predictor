@@ -4,6 +4,15 @@ A simple web app that analyzes resume text and suggests suitable job roles.
 
 Uses NLP-based keyword extraction and intelligent rule-based scoring to analyze resumes.
 
+
+**Screenshots**
+
+<img width="1187" height="881" alt="Screenshot 2026-04-14 213058" src="https://github.com/user-attachments/assets/8b4172e7-0a45-4c28-ae25-67807c59551d" />
+<img width="1200" height="813" alt="Screenshot 2026-04-14 213028" src="https://github.com/user-attachments/assets/e9314100-7c83-435a-80bf-baac99a3d8d7" />
+<img width="8" height="12" alt="Screenshot 2026-04-14 074906" src="https://github.com/user-attachments/assets/5e0b0870-1e09-44ec-b741-0c9588189a7a" />
+<img width="1200" height="813" alt="Screenshot 2026-04-14 213028" src="https://github.com/user-attachments/assets/878b4f96-2c89-4a53-a081-891a961514e1" />
+
+
 ## Features
 
 - Paste resume text into a web form
