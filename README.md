@@ -1,6 +1,6 @@
 # AI Resume Analyzer / Job-Role Predictor(Flask)
 
-A simple web app that analyzes resume text and suggests suitable job roles.
+A simple web app that analyzes resume text and suggests suitable Job roles.
 
 Uses NLP-based keyword extraction and intelligent rule-based scoring to analyze resumes.
 
